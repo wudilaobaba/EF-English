@@ -12,6 +12,10 @@ friendly 友好的
 unfriendly 不友好的
 serious 严肃的
 manager 经理
+secretary /ˈsekrəteri/ 秘书
+engineer 工程师
+artist 艺术家
+interesting 有趣的
 
 
 短语：
@@ -22,6 +26,9 @@ be friendly to sb
 be (always) with sb 和谁在一起
 (always) do with sb 总是和谁在一起做什么
 How many xxx are
+paper company 纸品公司
+sales assistant 销售助理
+clothes store 服装店
 
 
 句子：✅
@@ -54,6 +61,14 @@ They're always busy.他们一直很忙。
 He always looks unhappy.	他一直看起来不开心。
 He's tall and has brown hair and eyes
 
+Part04.
+What do you do? 您做什么工作的？
+What company do you work for?	您在哪家公司上班？
+I live with my wife in New York.	我和我的夫人住在纽约。
+That's too bad. 那太糟糕了。
+Uh-huh.	嗯。
+I like it a lot.  === I like it very much. 我非常喜欢它。
+
 视频对话：
 A: Wow! Is that your family?
 B: Yeah. It's big, huh?
@@ -79,6 +94,12 @@ A: She never smiles.不苟言笑
 B: She's very serious. She's a really good manager.她是个很好的经理。
 A: OK.
 
+I'm a businessman, I work in an office.
+I work in a paper company.
+I like shopping, and I like clothes.
+Where does John work?
+对话结束时可以说 That's interesting
+
 
 补充：
 反义词：
@@ -88,3 +109,5 @@ serious – funny
 good – bad
 happy – unhappy
 friendly – unfriendly
+说话时要注意当时的时态
+一般现在时
