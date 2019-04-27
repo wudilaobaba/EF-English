@@ -21,11 +21,8 @@ Thanks again for coming.
 再次感谢你能来。
 
 I'm going to go travelling
-
 I'm going to travel.
-
 I'm going to go travelling in Beijing
-
 I'm going to Beijing for travelling.
 
 
@@ -72,6 +69,10 @@ Thanks again for coming.
 
 Sure! See you soon.
 没问题，希望很快再见。
+
+How's your family?
+They're good!
+My family is good!
 
 
 补充：
