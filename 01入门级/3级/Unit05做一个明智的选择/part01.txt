@@ -13,7 +13,7 @@ smartphone 智能手机
 laptop 笔记本电脑
 desktop computer 台式电脑
 digital camera 数码相机
-tablet [ˈtæblət] 平板电脑
+tablet [ˈtæblit] 平板电脑
 electronic [ɪˌlekˈtrɑːnɪk] 电子的
 e-reader电子阅读器
 video game player 游戏机
