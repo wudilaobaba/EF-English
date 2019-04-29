@@ -16,7 +16,13 @@ soft 软的
 sweet 甜的
 warm 暖的
 sandwich [ˈsænwɪtʃ] 三明治
-Fried French fries [fraɪd frentʃ fraɪz] 薯条
+dessert [dɪˈzɜːrt] 甜点
+fries 炸薯条
+pasta /ˈpɑːstə/ 意大利面
+salad 沙拉
+cheese /tʃiːz/ 奶酪
+pizza /ˈpiːtsə/ 披萨
+French fries [fraɪd frentʃ fraɪz] 薯条
 Fried chicken 炸鸡
 Strawberry [ˈstrɔːberi] 草莓
 cookies 曲奇
@@ -25,10 +31,33 @@ mutton [ˈmʌtn] 羊肉
 lamb [læm] 羔羊
 durian [ˈdʊriən] 榴莲
 cucumber [ˈkjuːkʌmbər] 黄瓜
+carrots [ˈkærət] 胡萝卜
 
 短语：
 
 句子：
-There isn't any bread
+There isn't any bread.
+She wants some ice cream.
+What do you want?	您想要什么？
+Do you want some water?	您想喝水吗？
+Does he want a salad?	他想吃色拉吗？
+
+What's your favorite food?
+His favorite is salad.
+Pizza's my favorite food.
+
+He wats some ice cream.
+They want dessert.
+
+A: This places has great burgers.
+B: Mm-hmm.
+A: Do you want some of my fries?
+B: Mm-hmm.
+A: How's your sandwich?
+B: It's delicious.
+A: How about some dessert?
+B: Mm-hmm.
+A: I want some chocolate ice cream.
 
 补充：
+可数名词不确定数量的时候可以使用some apples,不可数名词也可以使用some water/beef/rice
