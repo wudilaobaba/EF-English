@@ -1,4 +1,4 @@
-Part03. 安排会议时间
+Part04. 谈论生日
 01. 中心小组WS
 02. 中心F2F
 03. Club next week
@@ -29,6 +29,7 @@ A: When's your birthday? 您的生日是哪一天？
 B: It's September 21st.	9 月 21 日。
 It's a birthday present for my son. 这是给我儿子的生日礼物。
 What are you doing for his birthday? 您为他的生日准备做什么？
+How's you going?
 
 补充：
 谈论一件事将在特定月份发生时，请使用介词 in。
