@@ -35,6 +35,9 @@ A: How are you?
 B: I'm fine, thanks! And you? === I'm good, thanks! And you?
 早上打招呼结束时：Have a nice day!
 
+How old are you?
+I'm in my 20s/30s/40s. 不想告诉别人自己的具体年龄就使用数字加s
+
 补充：
 How is 或 How are 用来征求某人的意见
 How are you? 举一反三： ...怎么样的句型
