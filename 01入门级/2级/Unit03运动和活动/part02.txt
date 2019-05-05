@@ -9,8 +9,10 @@ Part02. 询问人们参加的运动
 Intonation 语调 [ˌɪntəˈneɪʃn]
 
 短语：
+play the guitar. 弹吉他
 
 句子：
+I really can't play tennis. 我确实不会打网球
 
 补充：
 01.陈述句一般都是降调
@@ -19,4 +21,6 @@ Intonation 语调 [ˌɪntəˈneɪʃn]
   You can't swim? (↗)
   Do you like playing soccer? (↗)
 03.以 what、where、when 和 how 开始的疑问句通常句尾为降调。
-  What sports do you like? (↘)
+  What sports do you like? (↘)  您喜欢什么运动？
+  What can he do? (↘) 他会做什么？
+  What do you want to do? 你想干什么？
