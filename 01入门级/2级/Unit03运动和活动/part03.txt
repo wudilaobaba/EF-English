@@ -39,3 +39,7 @@ I like going surfing. 我喜欢冲浪。
   go skiing
   go surfing
   go hiking 去远足
+04.exercise 不需要加play、do 和 go来描述
+  I like exercising.
+  I exercise everyday.
+  Exercising is good.

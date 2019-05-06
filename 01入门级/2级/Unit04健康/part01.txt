@@ -20,11 +20,11 @@ My daughter's sick. 我女儿生病了
 I'm sorry to hear that.听到这个消息我很抱歉
 What's wrong with her?
 She has the flu. 她得流感了。
-How do you do it? 你是怎么做到的？
+How do you do it? 你是怎么做到的？(一般对方都要反问一句：Do what?)
 You always look great. 你一直看上去身体很好
 What's your secret? 您的秘诀是什么？
 I eat well. 我吃的好(胃口好)
-How do you stay in shape?	你怎样保持身体健康的？
+How do you stay in shape?	=== How do you stay healthy?你怎样保持身体健康的？
 Are you exercising ?你在锻炼吗？
 How are you doing? 你好吗？
 
@@ -36,9 +36,11 @@ B: Thanks, but it's not a secret. I exercise, and I eat well.谢谢，没什么�
 
 补充：
 感官动词 look /feel /smell /taste /sound + adj  表示感官
+You really look great!	您看起来气色真好！
 Tom looks bored.
+He looks stressed out. 他看起来筋疲力尽。
 That cheese smells bad. 奶酪发臭了。
-The music sounds beautiful.	音乐听起来很美。
+The music sounds good/beautiful/great.	音乐听起来很美。
 He dosen't feel well. 他感觉不好。
 A: Let's go to the movies.我们去看电影吧。
 B: That sounds great/good! 听起来很棒！
