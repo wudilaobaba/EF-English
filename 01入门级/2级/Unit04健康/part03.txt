@@ -9,13 +9,16 @@ Part03. 看医生
 stomachache /ˈstʌmək eɪk/ 胃痛
 fever /ˈfiːvər/ 发烧
 sore throat /sɔːr θrəʊt/ 喉咙痛
-take it easy for 2 or 3 days
 headache 头疼
 cough /kɔːf/ 咳嗽
 runny nose 流鼻涕
 
 短语：
-get lots of sleep 多休息
+get lots of sleep 多睡觉
+take it easy for 2 or 3 days 放松两三天
+Drink lots of liquids.多喝水
+Feel better soon.	早日康复。
+I'm so sorry.	非常抱歉。
 
 句子：
 How are you feeling? 感觉怎么样？
@@ -26,5 +29,28 @@ I have a fever. 我有点发烧
 I have the flu. 我有点流感
 I'm really busy at work. 我工作很忙
 Take an aspirin for your headache. 吃点阿司匹林来针对你的头痛
+What's the problem? 	什么问题？
+Where does it hurt? 	伤到哪啦？？
+What's wrong?   	出什么问题啦？
+I think you have the flu. 我觉得您得流感了。
+I have a terrible cough and a runny nose.我得了重感冒，一直流鼻涕。
+I'm not sleeping very well.我睡得不是很好。
+描述症状的方法：
+  01.
+    be + adj
+    feel + adj
+    I feel tired.
+  02.
+    使用您身体的某个部位和动词 hurt 搭配。
+    My head hurts.	我头疼。
+    My throat hurts.	我咽喉痛。
+  03.
+    使用您身体的某个部位和短语 have a sore 搭配。
+    I have a sore throat. 我喉咙痛。
+    I have a sore arm.	我手臂疼痛。
+  04.
+    使用动词have以及后缀-ache来形容身体某些部位的痛楚：
+    I have a stomachache. 我胃疼。
+
 
 补充：
