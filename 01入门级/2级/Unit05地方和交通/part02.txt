@@ -15,11 +15,38 @@ take the subway to the park. 坐地铁去公园
 take line 3 坐三号线
 
 句子：
-You should take a subway.你需要乘地铁
+You should take the subway.你需要乘地铁
 How do you get there by subway? 你怎样乘地铁去那边？
 It's on 5th Street, near the park.在 5th 街，公园旁边。
 Do you know where the train station is? 您知道火车站在哪里吗？
 Thank you .  - No problem.
+Change at Pine Street to line 5.在 Pine 街换 5 号线。
+Change from the red to the blue line.从红线换到蓝线。
+First,take line 3.Then change at Pine Street to line 5. Then go on the underground.
+You need to change from the red to the blue line. Then to the green line,and the second stop.And then over the bridge.And then get off at the second stop.
+That's pretty complicated.
+You can take the number 12 bus,but it takes an hour.
+I can take a taxi.
+请使用如下表达问路：
+How do I get to the museum? 请问博物馆怎么走？
+How do I get there?	请问去那里怎么走？
+请使用go by + 交通工具或者 get there by + 交通工具回答问路者  您也可以说 take + the + 交通工具。
+You should go by bus.	您应该坐公交车。
+You can get to the park by subway.	您可以坐地铁去公园。
+You can get there by subway.	您可以坐地铁到那。
+Take the bus. It's raining. 坐公交车。下雨了。
+You can take the train to the beach.	您可以坐火车去海边。
+
+Take the number 17 bus to the subway station.	坐 17 路公交车去地铁站。
+You're going there by subway? Take the blue line.	您坐地铁去那吗？坐蓝线。
+Get on Line 4.	上 4 号线。
+Change at the university to Line 2.	在大学换 2 号线。
+Get off at the second stop.	在第二站下车。
+
+请使用动词 take 谈论行驶的时间。
+How long does it take by bus?   	坐公交车需要多久呢？
+It takes about 30 minutes.	需要三十分钟。
+  
 
 补充：
 表序副词：
@@ -27,3 +54,6 @@ Thank you .  - No problem.
 在副词 first 之后，您可以使用副词 next 和 then，两者可以互换。Then 后面通常不接逗号。
 First, take the bus. Then take the subway. Next, walk.
 First, take the bus. Next, take the subway. Then walk.
+在问句前加上 excuse me 或 pardon me，这样更加礼貌。
+Pardon me. Do you know where Central Park is?
+Excuse me. Where is Central Park?
