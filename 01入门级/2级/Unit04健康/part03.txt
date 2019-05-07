@@ -12,6 +12,8 @@ sore throat /sɔːr θrəʊt/ 喉咙痛
 headache 头疼
 cough /kɔːf/ 咳嗽
 runny nose 流鼻涕
+stomach [ˈstʌmək] 胃
+symptoms [ˈsɪmptəmz] 症状
 
 短语：
 get lots of sleep 多睡觉
@@ -33,7 +35,7 @@ What's the problem? 	什么问题？
 Where does it hurt? 	伤到哪啦？？
 What's wrong?   	出什么问题啦？
 I think you have the flu. 我觉得您得流感了。
-I have a terrible cough and a runny nose.我得了重感冒，一直流鼻涕。
+I have a terrible cough and a runny nose.我咳得厉害，一直流鼻涕。
 I'm not sleeping very well.我睡得不是很好。
 描述症状的方法：
   01.
@@ -45,7 +47,7 @@ I'm not sleeping very well.我睡得不是很好。
     My head hurts.	我头疼。
     My throat hurts.	我咽喉痛。
   03.
-    使用您身体的某个部位和短语 have a sore 搭配。
+    使用您身体的某个部位和短语 have a sore [sɔːr] xxx 搭配。
     I have a sore throat. 我喉咙痛。
     I have a sore arm.	我手臂疼痛。
   04.
