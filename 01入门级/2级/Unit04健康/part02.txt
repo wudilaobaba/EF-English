@@ -28,7 +28,7 @@ He never plays sports. 他从不运动
 She's in excellent shape.	她身体很棒。
 I'm in good shape.	我身体很好。
 He's in bad shape.	他身体不好。
-John's in terrible shape.	John 身体很差
+John's in terrible shape.	 John身体很差
 My family is in very good shape. 我家人身体都很好。
 Staying in shape can be fun.	保持身体健康可以很有趣。 can be 可以
 Staying in shape is very important to me.对我来说，保持身体健康很重要
