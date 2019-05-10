@@ -30,6 +30,7 @@ Yes, I have a stomachache.我有点胃痛。
 I have a fever. 我有点发烧
 I have the flu. 我有点流感
 I'm really busy at work. 我工作很忙
+I'm too busy with work. 我工作很忙
 Take an aspirin for your headache. 吃点阿司匹林来针对你的头痛
 What's the problem? 	什么问题？
 Where does it hurt? 	伤到哪啦？？
