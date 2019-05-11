@@ -26,14 +26,16 @@ street/road 小街道
 district 区
 . dot
 @ at
+major [ˈmeɪdʒər] 专业
 
 短语：
 Hot Pot 火锅
 business card 名片
 e-mial address 邮件地址
 Floor 5 === the 5th floor
-go out of the work 下班
+go out of the work / finish work 下班
 at/in party
+
 
 句子：
 How long have you been a teacher in China? 你做老师多久了？
@@ -46,14 +48,25 @@ I am a programmer in an IT company.
 Where do you work?
 Where is your company?
 What's your company address?
+What's the name of your company?
 What company do you work for?
-
+Do you work around here? 你在这附近工作吗？
 What time/When do you get to work?
-
-What's your job?你是做什么的
+He enjoys his job. 他喜欢他的工作
 I'm a programmer at 公司名称.
+When are your day off? 你的休息日是什么时候？
+
+Can you say that slowly/again?
+How do you say this in English? 这个用英语怎么说？
+How to say this word? 这个词怎么读？
+Can I speak "How you are"?
 
 补充：
 地址的书写：
 Floor 5.,YinTai,. NO.1999, YiZhou Ave., Wuhou Dist.,ChengDu.
                                   大道          区
+现在完成进行时：
+have been doing/n. for 3 years.
+have been doing/n. scince 2014.
+When 询问模糊的时间
+What time 询问具体几点8
