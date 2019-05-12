@@ -14,6 +14,8 @@ take the No7 bus 坐7号公共汽车
 take the subway to the park. 坐地铁去公园
 take line 3 坐三号线
 go on the underground 去地下
+at 5 Pine Street
+on Pine Street
 
 句子：
 You should take the subway.你需要乘地铁
@@ -39,12 +41,14 @@ You can get to the park by subway.	您可以坐地铁去公园。
 You can get there by subway.	您可以坐地铁到那。
 Take the bus. It's raining. 坐公交车。下雨了。
 You can take the train to the beach.	您可以坐火车去海边。
-
+Go straight along/down Beach Road and turn left at the corner. 沿着沙滩路直走在转角处左转
 Take the number 17 bus to the subway station.	坐 17 路公交车去地铁站。
 You're going there by subway? Take the blue line.	您坐地铁去那吗？坐蓝线。
 Get on Line 4.	上 4 号线。
 Change at the university to Line 2.	在大学换 2 号线。
 Get off at the second stop.	在第二站下车。
+Which floor is your office? 你的办公室在几楼？
+It's only about five minutes away. 只有大约5分钟的距离
 
 请使用动词 take 谈论行驶的时间。
 How long does it take by bus?   	坐公交车需要多久呢？
