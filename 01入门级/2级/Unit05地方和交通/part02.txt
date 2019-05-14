@@ -41,7 +41,11 @@ You can get to the park by subway.	您可以坐地铁去公园。
 You can get there by subway.	您可以坐地铁到那。
 Take the bus. It's raining. 坐公交车。下雨了。
 You can take the train to the beach.	您可以坐火车去海边。
-Go straight along/down Beach Road and turn left at the corner. 沿着沙滩路直走在转角处左转
+Go straight along/down/on Beach Road and turn left at the corner. 沿着沙滩路直走在转角处左转
+Go down Oak Street. 沿着Oak街直行
+Make a /Go/Turn left on Valley Road. 在 Valley Road 路左转。
+Go/turn north on Third Avenue. 沿 Third Avenue 大街往北走
+The building is on the left.	大楼在左边。
 Take the number 17 bus to the subway station.	坐 17 路公交车去地铁站。
 You're going there by subway? Take the blue line.	您坐地铁去那吗？坐蓝线。
 Get on Line 4.	上 4 号线。
@@ -64,3 +68,5 @@ First, take the bus. Next, take the subway. Then walk.
 在问句前加上 excuse me 或 pardon me，这样更加礼貌。
 Pardon me. Do you know where Central Park is?
 Excuse me. Where is Central Park?
+重复路线确认时，你可以使用 so 一词。
+Go down Main Street, and then make a right on Terrace Drive. 这么说，我沿 Main 街直行，然后再 Terrace 道右转。
