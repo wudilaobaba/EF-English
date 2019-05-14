@@ -32,7 +32,7 @@ be动词否定缩写的两种：
 She's not a student. === She isn't a student.
 
 A: How are you?
-B: I'm fine, thanks! And you? === I'm good, thanks! And you?
+B: I'm fine, thanks! How about you? === I'm good, thanks! And you?
 早上打招呼结束时：Have a nice day!
 
 How old are you?
