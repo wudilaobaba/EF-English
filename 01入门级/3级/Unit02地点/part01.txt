@@ -6,12 +6,12 @@ Part01. 向他人介绍你居住的地方
 05. 20-minute Private Class
 
 单词：✅
-way	路
 street = St.	街   =================== on
 road = Rd.	路     =================== on
-avenue = Ave.	大街
-boulevard = Blvd.	大道 [ˈbʊləvɑːrd]
-drive = Dr.	道
+avenue = Ave.	大街 =================== on
+boulevard = Blvd.	大道 [ˈbʊləvɑːrd] =================== on
+drive = Dr.	道 =================== on
+way	路
 
 短语：
 
@@ -27,7 +27,6 @@ What's your address?	你的地址是什么？
 It's 507 Pine Street. Pine 街 507 号。
 What's the address of the restaurant?  餐馆地址是什么？
 What's the cross street? 与哪条路交叉？
-The cross street is Fourth Avenue. 与Fourth大街交叉。
 What's your apartment number? 你的公寓号码是多少？
 What floor do you live on? 你住在几楼？
 The 23rd floor. 23楼

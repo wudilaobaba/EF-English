@@ -8,16 +8,16 @@ Part03. 询问前往某家公司的路线
 单词：✅
 
 短语：
-go by plane 坐飞机
-ride the streetcar 坐电车
-go on foot 步行
-go by ferry 搭乘轮渡
-take a taxi 乘坐出租车
-take the bus 乘坐公共汽车
-go by car 坐车前往
+go by plane                        坐飞机
+ride the streetcar                 坐电车
+go on foot                         步行
+go by ferry                        搭乘轮渡
+take a taxi                        乘坐出租车
+take the bus                       乘坐公共汽车
+go by car                          坐车前往
 
 句子：
-Which direction is it?  It's west.
+Which direction is it?
 It's west.
 Go down Main Street for three blocks, and then make a right.	沿 Main Street 街走三个街区，然后右转。
 Go south for two blocks, and turn left.	往南走两个街区，然后左转。
