@@ -105,7 +105,7 @@ B: She's very serious. She's a really good manager.她是个很好的经理。
 A: OK.
 
 I'm a businessman, I work in an office.
-I work in a paper company. 
+I work in a paper company.
 I work for an Internet company.
 I like shopping, and I like clothes.
 Where does John work?
@@ -120,3 +120,20 @@ serious – funny
 good – bad
 happy – unhappy
 friendly – unfriendly
+
+副词的使用： 副词是给出动词和形容词的额外信息的词性
+频率副词：
+  always never
+  always的使用：
+  always do 客观表示做某事的频率
+  be always doing 强调某人一直处于一种状态之中(体现说话者情绪的不满)
+  be always+adj 他总是迟到
+  I'v always been into music.我对音乐感兴趣
+  never的使用：
+
+强调成分：
+  really+adj/v 和 very+adj 和 so+adj
+  I really like shopping in the mall!
+方位副词：
+  here/there
+  over 一词有时与 here 和 there 连用来加强语气。

@@ -32,7 +32,7 @@ A: Hello, can I help you?
 B: Yes, I’d like to return this shirt.✅
 A: What’s the problem?
 B: It doesn’t fit. ✅
-A: Do you have your receipt?✅ 我能看一下你的发票吗
+A: Do you have your receipt [rɪˈsiːt]?✅ 我能看一下你的发票吗
 B: Sure, here it is.✅
 A: OK, that’s $19.50. Here you are.
 B: Thanks. Goodbye.

@@ -71,7 +71,7 @@ Sentence
 5. When would you like to check in? = When are you checking in?
 您打算什么时候入住呢？
 
-6.Checking out March 19th. 3.19退房
+6.Checking out on March 19th. 3.19退房
 15th to 19th. 15号到19号
 What's the rate? 多少钱？
 Please resive it. 请订下来

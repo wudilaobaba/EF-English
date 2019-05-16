@@ -49,4 +49,4 @@ The park is opposite the school. 公园在学校对面
     The bookstore is across the street from the restaurant.	书店与餐厅隔街对望。
   08.near
   09.opposite 相反
-  10.close to 紧靠
+  10.be close to 紧靠
