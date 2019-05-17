@@ -32,7 +32,6 @@ The neighborhood's a little noisy. 社区有点嘈杂。
 确认信息是否正确，句子以so开头：
 So, that's for three nights.	那就是住 3 个晚上。
 So that's two people, for four nights. 那是两个人，住四个晚上。
-So, that's for 10 nights.	那就是住 10 个晚上。
 如果信息正确，请用这些表达：
 Right.
 That's right.
@@ -52,7 +51,7 @@ How was your stay?住的怎么样？
 - It was OK, but my shower wasn't very hot.  	还可以, 但是我的淋浴不是很热。
 - Actually, my bed was a little uncomfortable.	(实际上, 我的床有点不舒服。)
 - - I'm sorry to hear that.
-- - I do apologize for that.	我对此深表歉意。
+- - I do apologize [əˈpɑːlədʒaɪz] for that.	我对此深表歉意。
 - - Thanks for letting us know.	感谢您告知我们。
 --- That's okay. 没事。
 --- No problem.	(没问题。)
