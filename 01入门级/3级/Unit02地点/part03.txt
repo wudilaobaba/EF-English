@@ -6,17 +6,27 @@ Part03. 询问前往某家公司的路线
 05. 20-minute Private Class
 
 单词：✅
+water cooler 饮水机
+headset 耳麦
+cinema 电影院
+cafe  [keˈfei] 咖啡店
+market 露天市场 (比super market要大)
+e-commercial [iː kəˈmɜːrʃl] 电子商务
 
 短语：
-go by plane                        坐飞机
-ride the streetcar                 坐电车
-go on foot                         步行
-go by ferry                        搭乘轮渡
-take a taxi                        乘坐出租车
-take the bus                       乘坐公共汽车
-go by car                          坐车前往
+go by plane                             坐飞机
+ride the streetcar                      坐电车
+go on foot                              步行
+go by ferry                             搭乘轮渡
+take a taxi                             乘坐出租车
+take the bus                            乘坐公共汽车
+go by car                               坐车前往
+tourist attraction  [ˈtʊrɪst əˈtrækʃn]  旅游景点
+house plant 植物
+printer === copier 打印机
 
 句子：
+It's one block down B. 到B只有一个街区。
 Which direction is it?
 It's west.
 Go down Main Street for three blocks, and then make a right.	沿 Main Street 街走三个街区，然后右转。
@@ -25,6 +35,7 @@ Where are you now? 你现在在哪？
 Where are you coming from? 你从哪里来？
 How are you coming?	你怎么来？
 Thank you for your help! 谢谢您的帮忙！
+How many desks do you have in your office? 你办公室有多少张桌子？
 
 补充：具体描述地址
 Take the number 13 bus, and get off  at Pine Street.
