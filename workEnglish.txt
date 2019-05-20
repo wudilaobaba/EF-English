@@ -1,0 +1,22 @@
+signing body 签约主体/签约机构
+applicant [ˈæplɪkənt] 申请人
+partner type 合作伙伴类型
+business access mode 商户接入模式
+access store type 接入门店类型
+supporting documents 支撑文档
+application area 申请区域
+applicant country or region[ˈriːdʒən] 申请国家或地区
+project background 项目背景
+policy objectives 政策目标
+policy content 政策内容
+business scenario [səˈnærioʊ] 业务场景
+policy start time 政策开始时间
+Policy end time 政策结束时间
+settlement[ˈsetlmənt] cycle 结算周期
+settlement method 结算方式
+additional fixed costs 附加固定费用
+explanation[ˌekspləˈneɪʃn] of additional[əˈdɪʃənl] fixed costs 附加固定费用说明
+number of moving sales of target merchants 目标商户移动销售额(NOMSOTM)
+application for general budget[ˈbʌdʒɪt]  申请总预算(AFGB)
+unit moving cost 单位动销成本
+form validation 表单校验
