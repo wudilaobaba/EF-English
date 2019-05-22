@@ -20,3 +20,4 @@ number of moving sales of target merchants 目标商户移动销售额(NOMSOTM)
 application for general budget[ˈbʌdʒɪt]  申请总预算(AFGB)
 unit moving cost 单位动销成本
 form validation 表单校验
+enclosure [ɪnˈkloʊʒər]  附件
