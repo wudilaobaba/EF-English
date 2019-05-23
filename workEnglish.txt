@@ -13,6 +13,9 @@ business scenario [səˈnærioʊ] 业务场景
 policy start time 政策开始时间
 Policy end time 政策结束时间
 settlement[ˈsetlmənt] cycle 结算周期
+billing cycle 计费周期
+billing basis 计费依据
+billing currency 计费币种
 settlement method 结算方式
 additional fixed costs 附加固定费用
 explanation[ˌekspləˈneɪʃn] of additional[əˈdɪʃənl] fixed costs 附加固定费用说明
@@ -21,3 +24,4 @@ application for general budget[ˈbʌdʒɪt]  申请总预算(AFGB)
 unit moving cost 单位动销成本
 form validation 表单校验
 enclosure [ɪnˈkloʊʒər]  附件
+accounting formula [əˈkaʊntɪŋ ˈfɔːrmjələ] 计费公式
