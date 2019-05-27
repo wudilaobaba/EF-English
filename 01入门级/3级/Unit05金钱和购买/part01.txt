@@ -18,10 +18,10 @@ fancy - plain	花哨的 - 朴素的
 短语：
 
 句子：
-can I ask you a question about computers.
+can I ask you a question about computers. 我能问你一个关于电脑的问题吗？
 My son's computer's really old and slow. He needs something faster for his classes. And for all those computer games he plays.
 我儿子的电脑又老右慢。他需要一个更快的for他的课程。以及一些他玩的电脑游戏。
-You want a laptop, not a desktop,right? 你想要一个平板而不是台式机，对吗
+You want a tablet, not a desktop,right? 你想要一个平板而不是台式机，对吗
 I'm thinking about the B-Tek 13-72. 我正在想B-Tek 13-72型号的
 You need a better computer for gaming. 你需要一个更好的电脑来玩游戏
 That's a cheap price. Buy it!	(价格很便宜。买下它!)

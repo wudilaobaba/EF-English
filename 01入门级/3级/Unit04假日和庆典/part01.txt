@@ -16,12 +16,11 @@ Would you like to come to a party?	你想参加派对吗？
 接受派对邀请时，使用以下回答：
 Yes! Can I bring anything?  好啊！我能带些什么吗？
 Sure! What time should I come?	当然！我应该什么时候去？
-Yes. Thanks for the invitation! 	好，谢谢邀请!
+Thanks for the invitation! 谢谢邀请!
 When is the party? 	派对是什么时候？
 不接受邀请：
 I'm sorry. I'm afraid I'm busy.  对不起。我恐怕没有时间。
 I can't, but thanks for the invitation.	我不能去，但谢谢你的邀请。
-
 Can you and Ted come?你和Ted能来吗？
 
 补充：
