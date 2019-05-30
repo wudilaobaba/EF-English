@@ -45,7 +45,7 @@ Did you do all this? 这都是你做的吗？
 Not on my own,of course.当然不是我自己
 I'm so proud of you. 真为你感到骄傲
 With a bit of help. 有点帮助。
-Gas prices are up more than 20%. 油价涨了20%
+Gas prices are up (by) more than 20%. 油价涨了20%
 He's walking lazily down the street. 他慢吞吞走在街上。
 
 The prices of housing and utilities are both up by more than 20%. 住房价格和公共事务价格都涨了20%多
@@ -63,6 +63,6 @@ He always works very hard.          他总是工作很努力
 In my country, prices are always increasing  .
 Healthcare and housing costs  are going up fast.
 Prices for food are also increasing, but more slowly  .
-People live well  , but the cost of living  is difficult. 
+People live well  , but the cost of living  is difficult.
 The good news is that technology prices are decreasing  .
 I want to buy a new tablet computer, but it's too expensive right now.
