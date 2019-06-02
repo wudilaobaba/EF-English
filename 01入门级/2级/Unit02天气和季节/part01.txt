@@ -21,6 +21,7 @@ snowy 下雪的
 sunny 晴朗的
 foggy	多雾的
 hot  warm  cool凉的  cold冷的
+comma 逗号
 
 短语：
 It's minus 5. (-5°) 零下5度
@@ -34,3 +35,7 @@ There is a lot of fog this morning. It's a foggy  morning.
 天气的三种回答：It's sunny, but it's windy. / The weather's foggy and cold. / It's snowing!
 What's the temperature in Barcelona?
 It's 27 degrees Celsius. (27°C)  //一般不会说后面两个degrees Celsius
+
+补充：
+another book, other books.
+My friend, Lucy, worked at Chen Du No. 1 Peoples' Hospital.  注意逗号的使用
