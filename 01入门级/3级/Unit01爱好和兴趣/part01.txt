@@ -45,7 +45,7 @@ What else do you like to do?
 
 使用 belong to 表示你是某俱乐部的会员
 We belong to a book club.	我们是书友会的会员。
-使用 on 表示你是某运动队的队员。
+使用 be on 表示你是某运动队的队员。
 They're on the running team.	他们是田径队的。
 使用 get together with 谈论与朋友交往。
 I like getting together with friends.	我喜欢跟朋友们聚在一起。
