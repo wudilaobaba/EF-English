@@ -7,32 +7,49 @@ Part01. 谈论天气
 
 单词：
 temperature 温度
-degrees 度
+degrees [dɪˈgriz] 度
 Celsius [ˈselsiəs] 摄氏度
 Fahrenheit [ˈfærənhaɪt] 华氏度
 wind 风
 fog 雾
 回答天气使用以下形容词：
-sunny 晴朗的
-cloudy 多云的
-raining/rainy 下雨的
-wet 潮湿的
-snowy 下雪的
-sunny 晴朗的
-foggy	多雾的
-hot  warm  cool凉的  cold冷的
+天气：
+  sunny 晴朗的
+  cloudy 多云的
+  lightening [ˈlaɪtnɪŋ] 闪电
+  thunder [ˈθʌndər]  打雷的
+  raining/rainy 下雨的
+  wet 潮湿的
+  snowy 下雪的
+  sunny 晴朗的
+  foggy	多雾的
+  stormy 暴风雨
+  breeze 微风n.
+  breezy 微风的adj.
+  clear 无云 大晴天
+体感：
+  hot
+  warm
+  cool凉的
+  cold冷的
+  freezing 结冰严寒
 comma 逗号
 
 短语：
-It's minus 5. (-5°) 零下5度
+It's minus [ˈmaɪnəs] 5. (-5°) 零下5度
 That's a cool car!	那辆汽车很酷！
 
 
 句子：
 There are a lot of clouds in the sky. It's a cloudy day.
 There is a lot of fog this morning. It's a foggy  morning.
-天气的两种询问：What's the weather like? === How's the weather?
-天气的三种回答：It's sunny, but it's windy. / The weather's foggy and cold. / It's snowing!
+天气的两种询问：
+  What's the weather like (in Landon)?
+  How's the weather (in Landon)?
+天气的4种回答：
+  The weather's foggy and cold. It's 16℃. 经典回答：天气+体感+温度
+  It's sunny, but it's windy.
+  It's snowing!
 What's the temperature in Barcelona?
 It's 27 degrees Celsius. (27°C)  //一般不会说后面两个degrees Celsius
 
