@@ -22,7 +22,14 @@ Osker is going to go to the doctor. 欧斯卡将要去看医生
 She's going to go on vavation.
 She's going to go skiing.
 
-05.过去时
+05.一般现在时表示的将来时
+The movie starts at 8! 电影八点钟开始！
+The store opens/closes at 9 a.m. tomorrow. 商店明早9点开门/关门
+He finishes his work at 6 p.m. 他下午6点下班
+The movie is over at 9:15 p.m. 电影晚上九点一刻结束。
+The movie ends at midnight. 	电影午夜结束。
+
+06.过去时
 be动词:
   I was a banker.	我以前是银行家。
   We were designers.	我们以前是设计师。
