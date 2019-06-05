@@ -7,20 +7,21 @@ Part01. 描述休闲娱乐的选择
 
 单词：✅
 演出相关词汇：
-  admission [ədˈmɪʃn] 	入场费
+  admission [ədˈmɪʃn] 入场费
   perform	表演
-  start 	开始
-  ticket	票
   available	可用的，可得到的
 
 短语：
 a lecture /ə ˈlektʃər/ 一场讲座
 a picnic
-a play 一部戏剧
+a play 一部戏剧/一场演出
 a game 一场比赛；一种游戏
 a musical 一部音乐剧
 a dance /dæns/ 一支舞
 a concert /ə ˈkɑːnsərt/ 一场音乐会
+看电影：
+  watch a movie
+  go to the movie //go to + 表演的名词代表 去看名词(movie) 去听名词(lecture)
 
 句子：
 表示能力使用can do或can't do或cannot do
@@ -38,7 +39,7 @@ I'm terrible at driving.	我开车很差劲。
 Let's go to that play downtown. 我们去市中心的那场演出吧。
 There's a free jazz concert downtown. 市区有一场免费的爵士乐音乐会。
 It's 'The Big Cheese' with May Jackson. 这是梅·杰克逊的“大奶酪”。
-We could go  to the football game. 我们可以去看足球赛。
+We could go to the football game. 我们可以去看足球赛。
 So the movie sounds good. 电影听起来还不错
 We could watch a movie, or there's a dance in the park. 我们可以看电影，或者在公园里跳舞。
 询问活动：
@@ -47,36 +48,37 @@ We could watch a movie, or there's a dance in the park. 我们可以看电影，
   03.What's going on?	有什么正在进行的活动？  What's going on downtown? 市中心有什么正在进行的活动？
 列举活动：
   01.There's a new movie at the theater and a lecture at the university.	电影院新上映了一部影片，大学有一场讲座。
-  02.There are some great movies and plays going on this week.	本周有不少好看的电影和戏剧。
+  02.There are some great movies and plays going on this week.	本周有不少好看的电影和演出。
 提出活动：
-  We can go to the lecture or the movie.	我们可以去听讲座或看电影。
-  You could go swimming or you could go hiking.	你可以去游泳或者去远足。
-建议活动:
-  01.Let's go to the dance performance.	我们去看舞蹈演出吧。
-  02.What/How about meeting some friends?	去见一些朋友怎么样？
-  03.We could go out for a drink at Harry's Bar.	我们可以去 Harry's Bar 酒吧喝点东西。
-  04.Why don't we try a new restaurant?	我们为什不试试一家新餐馆呢？
+  01.We can go to the lecture or the movie.	我们可以去听讲座或看电影。
+  02.You could go swimming or you could go hiking.	你可以去游泳或者去远足。
+     We could go out for a drink at Harry's Bar.	我们可以去 Harry's Bar 酒吧喝点东西。
+  03.Let's go to the dance performance.	我们去看舞蹈演出吧。
+  04.What/How about meeting some friends?	去见一些朋友怎么样？
+  05.Why don't we try a new restaurant?	我们为什不试试一家新餐馆呢？
 询问还有哪些活动：
   What else is there to do?	还可以做什么？
   What else is going on?	还有什么活动？
 
 补充：
-语言点：单词 pretty 有两层意思，它既表示某人外表迷人，做副词使用时，则修饰强调后接的形容词。
-只能加不定式的动词：
-  plan: We're planning to go to the soccer game.	我们正在计划去看足球赛
-  want: We want to see the play in the park this week.	我们本周想去公园看戏
-  need: I need to get some money for the concert.	我需要为音乐会准备一点钱。
-只能后接动名词的动词：
-  enjoy: I enjoy listening to music.  	我喜欢听音乐。
-  keep: Martin kept playing his guitar until midnight.	马丁一直不停地弹吉他，直至午夜。
-  think about : We're thinking about going to a concert.	我们正在考虑去听音乐会。
-既能加动名词也能加不定式的动词：
-  like:
-    I like going to musicals.	我喜欢听音乐剧。
-    I like to go to musicals.	我喜欢听音乐剧。
-  love:
-    Joan loves eating in restaurants.	Joan 喜欢在餐馆吃饭。
-    Joan loves to eat in restaurants.	Joan 喜欢在餐馆吃饭。
-  begin:
-    It began to snow.	开始下雪了。
-    It began snowing.	开始下雪了。
+  语言点：
+    单词 pretty 有两层意思，它既表示某人外表迷人，做副词使用时，则修饰强调后接的形容词。
+  不定式和动名词：
+    只能加不定式的动词：
+      plan: We're planning to go to the soccer game.	我们正在计划去看足球赛
+      want: We want to see the play in the park this week.	我们本周想去公园看戏
+      need: I need to get some money for the concert.	我需要为音乐会准备一点钱。
+    只能后接动名词的动词：
+      enjoy: I enjoy listening to music.  	我喜欢听音乐。
+      keep: Martin kept playing his guitar until midnight.	马丁一直不停地弹吉他，直至午夜。
+      think about : We're thinking about going to a concert.	我们正在考虑去听音乐会。
+    既能加动名词也能加不定式的动词：
+      like:
+        I like going to musicals.	我喜欢听音乐剧。
+        I like to go to musicals.	我喜欢听音乐剧。
+      love:
+        Joan loves eating in restaurants.	Joan 喜欢在餐馆吃饭。
+        Joan loves to eat in restaurants.	Joan 喜欢在餐馆吃饭。
+      begin:
+        It began to snow.	开始下雪了。
+        It began snowing.	开始下雪了。
