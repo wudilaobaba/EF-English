@@ -28,16 +28,33 @@ cute 可爱的 形容孩子或18~24岁之间的男女
 handsome 形容30~40之间的男子
 daughter [ˈdɔːdər] 女儿
 big === fat  形容人胖一般都是用big
+描述头发：
+  long 	长发
+  medium length	中长发
+  short	短发
+  curly	卷发
+  straight	直发
+  blond	金发
+  bald	秃顶
+  My father is bald.	我父亲是秃顶。
+  She has long, straight, brown hair.	她拥有一头棕色的长长的直发。
+描述年龄：
+  old	老年
+  middle-aged	中年
+  young	年轻
 
 短语：
 only child 独生子女
-She has a cute smile 迷人的微笑
+She has a cute/nice smile 迷人的微笑
 long, blond [blɑnd] hair 长金发
 be friendly to sb
 How many xxx are
 paper company 纸品公司
 sales assistant 销售助理
 clothes store 服装店
+medium height	中等高度
+overweight	超重
+fat	肥胖
 
 
 句子：✅
