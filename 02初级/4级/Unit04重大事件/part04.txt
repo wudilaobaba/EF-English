@@ -20,14 +20,13 @@ Hace a seat.请坐 - Thank you.
 I've looked over your resume, and I've talked with Todd. 我看过你的简历，我和托德谈过了。
 He was very impressed with your last interview. He thinks you're a suitable candidate for the position.
 你上次面试给他留下了很深的印象。他认为你是这个职位的合适人选。
--I'm happy to hear that.
-You're a designer over at Future Studios. 你是未来工作室的设计师。
+-I'm happy to hear that. 听到真高兴
+You're a designer over at X. 你是未来工作室的设计师。
 For six years now.距今6年了
 Why do you wanna leave? 你为什么要离开？
-Why does Joel want to leave Data Systems? 乔尔为什么要离开数据系统？
-Opportunity.I mean ,Future Studios is a very small company, with only 3 designers. There isn't much chance for me advance.
-机会。我的意思是，未来工作室是一家非常小的公司，只有3名设计师。我前进的机会不大。
-You are looking for a senior designer. 你在找高级设计师。
+Why does Joel want to leave X? 乔尔为什么要离开数据系统？
+Opportunity.I mean ,Future Studios is a very small company, with only 3 designers. There isn't much chance for me advance.机会。我的意思是，X是一家非常小的公司，只有3名设计师。那里没有太多机会对我的进步。
+You are looking for a senior designer. 你在找一个高级设计师。
 What do you think are your strengths. 你认为你的长处是什么？
 Well,I'm very creative. My boss and the other designers love my designs. 嗯，我很有创造力。我的老板和其他设计师喜欢我的设计。
 Your designs are impresstive. 你的设计令人印象深刻。
