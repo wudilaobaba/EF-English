@@ -35,7 +35,7 @@ big === fat                              形容人胖一般都是用big
   curly	                                 卷发 ..
   straight	                             直发
   blond	                                 金发
-  bald	                                 秃顶 ..
+  bald	[bɔːld]                          秃顶 ..
   My father is bald.	                   我父亲是秃顶。
   She has long, straight, brown hair.	   她拥有一头棕色的长长的直发。
 描述年龄：
