@@ -41,7 +41,7 @@ You can get to the park by subway.	您可以坐地铁去公园。
 You can get there by subway.	您可以坐地铁到那。
 Take the bus. It's raining. 坐公交车。下雨了。
 You can take the train to the beach.	您可以坐火车去海边。
-Go straight along/down/on Beach Road and turn left at the corner. 沿着沙滩路直走在转角处左转
+Go straight/along/down on Beach Road and turn left at the corner. 沿着沙滩路直走在转角处左转
 Go down Oak Street. 沿着Oak街直行
 Make a /Go/Turn left on Valley Road. 在 Valley Road 路左转。
 Go/turn north on Third Avenue. 沿 Third Avenue 大街往北走
