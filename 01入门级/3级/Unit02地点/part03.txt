@@ -29,7 +29,7 @@ printer === copier 打印机
 It's one block down B. 到B只有一个街区。
 Which direction is it?
 It's west.
-Go down Main Street for three blocks, and then make a right.	沿 Main Street 街走三个街区，然后右转。
+Go down/alone Main Street for three blocks, and then make a right.	沿 Main Street 街走三个街区，然后右转。
 Go south for two blocks, and turn left.	往南走两个街区，然后左转。
 Where are you now? 你现在在哪？
 Where are you coming from? 你从哪里来？
@@ -38,9 +38,11 @@ Thank you for your help! 谢谢您的帮忙！
 How many desks do you have in your office? 你办公室有多少张桌子？
 
 补充：具体描述地址
+乘坐13路公交车，在Pine Street站下车，然后在第一大街向南走三个街区。
+我们办公室在左边3489号。我们在4楼的420号办公室
 Take the number 13 bus, and get off  at Pine Street.
 Then walk north  on First Street for three blocks .
-Our office is on the left  at 3489. We're on the fourth floor  in office number  420.
+Our office is on the left  at 3489. We're on the fourth floor in office number  420.
 
 补充：
 如果打算拜访一家公司，你可能询问公司的地址和前去的路线。在问题前加上 please 显得更礼貌。
