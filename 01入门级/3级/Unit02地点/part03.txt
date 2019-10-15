@@ -30,7 +30,7 @@ It's one block down B. 到B只有一个街区。
 Which direction is it?
 It's west.
 Go down/alone Main Street for three blocks, and then make a right.	沿 Main Street 街走三个街区，然后右转。
-Go south for two blocks, and turn left.	往南走两个街区，然后左转。
+Go south down/alone Main Street for two blocks, and turn left.	沿着Main Street 街往南走两个街区，然后左转。
 Where are you now? 你现在在哪？
 Where are you coming from? 你从哪里来？
 How are you coming?	你怎么来？
