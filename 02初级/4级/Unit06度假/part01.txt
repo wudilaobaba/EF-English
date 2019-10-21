@@ -8,16 +8,57 @@ Part01. 获取目的地信息
 单词：✅
 forest [ˈfɔːrɪst]  森林
 desert [dɪˈzɜːrt] 沙漠
+waterfall 瀑布
+wilderness [ˈwɪldərnəs]  荒野
+glacier [ˈɡleɪʃər]  冰川
 
 短语：
 
 句子：
-It gets to 115 degrees.
-It gets cooler at night. 晚上天气变凉了。
+It gets up to 80 degrees. 气温高达 80 度。
+It gets to 115 degrees. 温度达到 115 度。
+It gets cooler in fall.秋天气候更凉爽。
 We have a tent. That' s more fun than a hotel. 我们有帐篷。那比旅馆更有趣。
 It's nicer here. 这里好多了。
 You want to go camping there? 你想去那里野营吗？
 I mean,who does that? 我是说，是谁干的？
 I really want you to see it. 我真的想让你看看。
+It's often windy.	常常刮风。
+It's so cold and cloudy.	天很阴，又很冷。
+It gets to 115 degrees Fahrenheit. That's, like, 46 degrees Celsius!	温度达到华氏 115 度，相当于 46 摄氏度。
+Fall is perfect.	秋天很美。
+Winter is terrible.	冬天很糟。
+It's lovely in spring.	春天真美。
+It gets cooler at night.	夜晚天气变得更凉爽。
+It's nicer here than in the desert.	这里比沙漠更好。
+It's hot in summer and cold in winter.	冬冷夏热。
+It gets really windy in spring.春天风真得很大。
+Winter is cold and rainy.冬天寒冷多雨。
+It can get to about 65 degrees. 温度能升到 65 度左右。
+It snows a lot in winter. 冬天常常下雪。
+It's foggy in the morning and sunny in the afternoon. 早上有雾，下午天晴。
+What does Sarah say about the desert? 莎拉怎么说沙漠？
+Take a hike to Salto Grande waterfall. There, water from the Paine River falls beautifully into Pehoe Lake.
+远足到Salto Grande瀑布。在那里，潘恩河的水美丽地流入佩霍湖。
+Travel to the far mountains and clean oceans of Chile and Argentina.前往智利和阿根廷的深山和清洁的海洋。
+Amazing rocky hills and many colorful birds flying through the gorgeous wilderness.
+令人惊奇的岩石山和许多五颜六色的鸟在美丽的荒野中飞翔。
+What are the people like in his hometown? 他家乡的人怎么样？
+
+A: What's the weather like in your hometown?	你的家乡天气什么样子？
+B: It's cold and snowy in winter. It gets to -30 degrees. But it's warm in summer and fall.	冬天寒冷，还会下雪。温度降到零下 30 度。但夏天和秋天很暖和。
+
+A: What's the food like in Ottawa?	在渥太华都吃什么？
+B: Well, we eat a lot of fish. And poutine is popular. It's special french fries with cheese.	嗯，我们常常吃鱼，奶酪蘸番茄酱薯条很受欢迎。这种薯条搭配奶酪，很特别。
+
+A: What are the people like in your hometown?	你家乡的人都怎么样？
+B: Many people are university graduates and can speak English and French.	许多人读过大学，会讲英语和法语。
+They're a lot of fun, and friendly.他们都非常有趣，而且都很友好。
 
 补充：
+Patagonia Trip
+In the Mountains , at the Ocean
+January 27 to February 6
+Travel to the far mountains and clean oceans of Chile and Argentina.
+Camp at the snowy Perito Merino glacier , a river of ice where it sometimes gets to 28 degrees Fahrenheit, or -2 degrees Celsius .
+Visit the warm, sunny wilderness at Torres del Paine Park. Find cool lakes, amazing rocky hills and many colorful birds flying through the gorgeous wilderness.
